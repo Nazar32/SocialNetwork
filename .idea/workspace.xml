@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e692e863-6ed9-4524-9bcc-15594468dca4" name="Default" comment="" />
+    <ignored path="Social Network.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Social Network" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Interface/UserPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="514" column="23" selection-start-line="514" selection-start-column="23" selection-end-line="514" selection-end-column="23" />
+              <folding>
+                <element signature="method#actionPerformed#0;class#UserPage#0" expanded="false" />
+                <element signature="method#initializeSettings#0;class#UserPage#0" expanded="false" />
+                <element signature="method#showSettings#0;class#UserPage#0" expanded="false" />
+                <element signature="method#showMessages#0;class#UserPage#0" expanded="false" />
+                <element signature="method#showNews#0;class#UserPage#0" expanded="false" />
+                <element signature="method#changePassword#0;class#UserPage#0" expanded="false" />
+                <element signature="method#changeEmail#0;class#UserPage#0" expanded="false" />
+                <element signature="method#initializeMessages#0;class#UserPage#0" expanded="false" />
+                <element signature="method#updateMessages#0;class#UserPage#0" expanded="false" />
+                <element signature="method#sendMessage#0;class#UserPage#0" expanded="false" />
+                <element signature="method#deleteMessage#0;class#UserPage#0" expanded="false" />
+                <element signature="method#showMessageBtns#0;class#UserPage#0" expanded="false" />
+                <element signature="method#createNewsComponent#0;class#UserPage#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractManagmentSystem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Proxy/AbstractManagmentSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyManagmentSystem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Proxy/ProxyManagmentSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getInstance#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getNews#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#sendMessage#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getMessages#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#updateMessages#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#addNews#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#addMessage#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getCities#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getUsers#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getUsersFromCity#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getCityByName#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#insertUser#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#updateUser#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#deleteUser#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#getUserByEmail#0;class#ProxyManagmentSystem#0" expanded="false" />
+                <element signature="method#deleteMessage#0;class#ProxyManagmentSystem#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/Logic.Proxy.AbstractManagmentSystem" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/Logic.Proxy.AbstractManagmentSystem">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Logic.Proxy.AbstractManagmentSystem</OriginalElement>
+              <nodes>
+                <node x="13.739583333333329" y="158.0">Logic.Proxy.ProxyManagmentSystem</node>
+                <node x="0.0" y="79.0">Logic.ManagmentSystem</node>
+                <node x="16.697916666666657" y="0.0">Logic.Proxy.AbstractManagmentSystem</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Logic.Proxy.ProxyManagmentSystem" target="Logic.Proxy.AbstractManagmentSystem">
+                  <point x="54.66666666666666" y="-14.5" />
+                  <point x="150.40625" y="133.0" />
+                  <point x="145.5" y="133.0" />
+                  <point x="145.5" y="54.0" />
+                  <point x="150.94791666666666" y="54.0" />
+                  <point x="44.75" y="14.5" />
+                </edge>
+                <edge source="Logic.ManagmentSystem" target="Logic.Proxy.AbstractManagmentSystem">
+                  <point x="0.0" y="-14.5" />
+                  <point x="67.5" y="54.0" />
+                  <point x="61.44791666666666" y="54.0" />
+                  <point x="-44.75" y="14.5" />
+                </edge>
+                <edge source="Logic.Proxy.ProxyManagmentSystem" target="Logic.ManagmentSystem">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-158.0" y="50.0" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DataBase/DataStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+              <folding>
+                <element signature="method#getCities#0;class#DataStore#0" expanded="false" />
+                <element signature="method#getUsers#0;class#DataStore#0" expanded="false" />
+                <element signature="method#getUsersByCity#0;class#DataStore#0" expanded="false" />
+                <element signature="method#insertUser#0;class#DataStore#0" expanded="false" />
+                <element signature="method#insertNews#0;class#DataStore#0" expanded="false" />
+                <element signature="method#getNews#0;class#DataStore#0" expanded="false" />
+                <element signature="method#getMessages#0;class#DataStore#0" expanded="false" />
+                <element signature="method#insertMessage#0;class#DataStore#0" expanded="false" />
+                <element signature="method#updateUser#0;class#DataStore#0" expanded="false" />
+                <element signature="method#deleteUser#0;class#DataStore#0" expanded="false" />
+                <element signature="method#deleteNews#0;class#DataStore#0" expanded="false" />
+                <element signature="method#deleteMessage#0;class#DataStore#0" expanded="false" />
+                <marker date="1464189504466" expanded="true" signature="1608:1634" placeholder="SELECT group... groups" />
+                <marker date="1464189504466" expanded="true" signature="1608:1640" placeholder="SELECT * FRO... cities" />
+                <marker date="1464189504466" expanded="true" signature="2398:2405" placeholder="SELECT * Fro... users" />
+                <marker date="1464189504466" expanded="true" signature="2398:2423" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2432" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2442" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2453" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2460" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2465" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2470" placeholder="SELECT first... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2480" placeholder="SELECT user_... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2481" placeholder="SELECT user_... " />
+                <marker date="1464189504466" expanded="true" signature="2398:2485" placeholder="SELECT * FRO... users" />
+                <marker date="1464189504466" expanded="true" signature="2398:2557" placeholder="SELECT user_... users" />
+                <marker date="1464189504466" expanded="true" signature="2485:2557" placeholder="SELECT user_... users" />
+                <marker date="1464189504466" expanded="true" signature="3791:3873" placeholder="SELECT user_... " />
+                <marker date="1464189504466" expanded="true" signature="3791:3884" placeholder="(\&quot;SELECT us... " />
+                <marker date="1464189504466" expanded="true" signature="5119:5136" placeholder="INSERT INTO users... " />
+                <marker date="1464189504466" expanded="true" signature="5119:5238" placeholder="INSERT INTO users... " />
+                <marker date="1464189504466" expanded="true" signature="5119:5303" placeholder="INSERT INTO users... " />
+                <marker date="1464189504466" expanded="true" signature="6144:6291" placeholder="INSERT INTO news... " />
+                <marker date="1464189504466" expanded="true" signature="7063:7131" placeholder="SELECT news_... news" />
+                <marker date="1464189504466" expanded="true" signature="8106:8192" placeholder="SELECT messa... messages" />
+                <marker date="1464189504466" expanded="true" signature="9235:9400" placeholder="INSERT INTO messages... " />
+                <marker date="1464189504466" expanded="true" signature="10159:10175" placeholder="UPDATE users... " />
+                <marker date="1464189504466" expanded="true" signature="10159:10209" placeholder="UPDATE users... " />
+                <marker date="1464189504466" expanded="true" signature="10159:10220" placeholder="UPDATE users... " />
+                <marker date="1464189504466" expanded="true" signature="10159:10291" placeholder="UPDATE users... " />
+                <marker date="1464189504466" expanded="true" signature="10159:10340" placeholder="UPDATE users... " />
+                <marker date="1464189504466" expanded="true" signature="11246:11279" placeholder="DELETE FROM " />
+                <marker date="1464189504466" expanded="true" signature="11715:11747" placeholder="DELETE FROM " />
+                <marker date="1464189504466" expanded="true" signature="12192:12231" placeholder="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social_network.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/social_network.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Social-Network" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/dd.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Iterator/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Iterator/UserIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Iterator/Container.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Cities.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/res/Write.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/City.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/garbage.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/UsersStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/ComponentFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/CitiesStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/res/R.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Community.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/UserPageTemplate/UserPageTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/News.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/AbstractDataStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/AbstractCitiesStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/AbstractMessagesStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/AbstractNewsStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/AbstractUsersStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBase/DataStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Proxy/ManagmentSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Proxy/AbstractManagmentSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/ManagmentSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Proxy/ProxyManagmentSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/SignIn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/SignUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/SendMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/DeleteMessageState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/UpdateMessagesState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/ExitSate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/ExitState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Filter/Criteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Filter/MaleCriteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Filter/CriteriaFemale.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Filter/AdultCriteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Filter/AndCriteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Filter/OrCriteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/MessagesPageState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/NewsPageState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/State/SettingsPageState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logic/Prototype/PersonCloning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/UserPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Social Network" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Social Network" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Social Network M" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/LAb/LAb/LAb" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="DataBase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\Social Network M" />
+      <recent name="D:\MyProjects\Social Network M\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DataBase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\Social Network M\src\main\resources" />
+      <recent name="D:\MyProjects\Social Network M\lib" />
+      <recent name="D:\MyProjects\Social Network M" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SignIn">
+    <configuration default="false" name="DataStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DataBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DataBase.DataStore" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Social Network M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Interface.UserPage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Social Network M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ManagmentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Logic.ManagmentSystem" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Social Network M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SendMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Interface.SendMessage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Social Network M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SignIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Interface.SignIn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Social Network M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Social Network M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.DataStore" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UserPage" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ManagmentSystem" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SendMessage" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SignIn" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SignIn" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UserPage" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SendMessage" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ManagmentSystem" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DataStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e692e863-6ed9-4524-9bcc-15594468dca4" name="Default" comment="" />
+      <created>1462204426241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462204426241</updated>
+      <workItem from="1462204431314" duration="11133000" />
+      <workItem from="1462350774802" duration="29893000" />
+      <workItem from="1463217757861" duration="56142000" />
+      <workItem from="1463548149797" duration="8427000" />
+      <workItem from="1463680307971" duration="16302000" />
+      <workItem from="1463947625697" duration="1969000" />
+      <workItem from="1464075689236" duration="32707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DataStoreTest - 2016.05.04 at 12h 52m 13s.xml">
+      <configuration name="DataStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest - 2016.05.04 at 12h 54m 08s.xml">
+      <configuration name="DataStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest - 2016.05.04 at 12h 55m 32s.xml">
+      <configuration name="DataStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest - 2016.05.04 at 17h 44m 34s.xml">
+      <configuration name="DataStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest - 2016.05.04 at 17h 56m 34s.xml">
+      <configuration name="DataStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest - 2016.05.04 at 17h 57m 25s.xml">
+      <configuration name="DataStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest_getUsers - 2016.05.04 at 13h 02m 34s.xml">
+      <configuration name="DataStoreTest.getUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest_getUsers - 2016.05.04 at 16h 03m 29s.xml">
+      <configuration name="DataStoreTest.getUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataStoreTest_getUsers - 2016.05.04 at 16h 12m 24s.xml">
+      <configuration name="DataStoreTest.getUsers" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156573000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29742765" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5060514" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="554" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33828384" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.295764" sideWeight="0.49356914" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Metrics" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47588426" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19742814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31993568" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.301059" sideWeight="0.50643086" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31420374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="83" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ManagmentSystem.getInstance" />
+        <watch expression="users" />
+        <watch expression="cities" />
+        <watch expression="messages" />
+        <watch expression="news" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.sixrr.metrics.MetricsReloaded">
+    <option name="selectedProfile" value="" />
+    <option name="autoscroll" value="false" />
+    <option name="showOnlyWarnings" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/State/DeleteMessageState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/State/UpdateMessagesState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/State/ExitState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Filter/Criteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Filter/MaleCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/SignUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1636">
+          <caret line="100" column="48" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Filter/CriteriaFemale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" selection-start-line="12" selection-start-column="8" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Filter/AdultCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Filter/AndCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Filter/OrCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/State/MessagesPageState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/State/NewsPageState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/State/SettingsPageState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Interface">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Interface</OriginalElement>
+          <nodes>
+            <node x="0.0" y="227.0">Interface.State</node>
+            <node x="115.0" y="301.0">Interface.SignIn</node>
+            <node x="0.0" y="153.0">Interface.ComponentsFactory</node>
+            <node x="0.0" y="0.0">Interface.UserPageTemplate</node>
+            <node x="150.0" y="227.0">Interface.SendMessage</node>
+            <node x="48.5" y="79.0">Interface.UserPage</node>
+            <node x="0.0" y="301.0">Interface.SignUp</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Interface.UserPage" target="Interface.UserPageTemplate">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-129.0" y="121.5" />
+          <SelectedNodes>
+            <node>Interface.State</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/DataBase">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>DataBase</OriginalElement>
+          <nodes>
+            <node x="" y="">DataBase.DataStoreTest</node>
+            <node x="" y="">DataBase.DataStore</node>
+            <node x="" y="">DataBase.AbstractNewsStore</node>
+            <node x="" y="">DataBase.AbstractCitiesStore</node>
+            <node x="" y="">DataBase.AbstractMessagesStore</node>
+            <node x="" y="">DataBase.AbstractUsersStore</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="304.5" y="91.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">DataBase</node>
+            <node x="" y="">Logic</node>
+            <node x="" y="">Interface</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1" x="209.90909090909088" y="119.72727272727269" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/jre/lib/rt.jar!/javax/swing/JButton.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/javax/swing/JButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4200">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/JButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/ComponentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/ComponentsCreationManagment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/ComponentsFactory/WindowFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Interface.ComponentsFactory.WindowFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Interface.ComponentsFactory.WindowFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">Interface.ComponentsFactory.ComponentFactory</node>
+            <node x="" y="">Interface.ComponentsFactory.AbstractFactory</node>
+            <node x="" y="">Interface.ComponentsFactory.WindowCreationManagment</node>
+            <node x="" y="">Interface.ComponentsFactory.FactoryProducer</node>
+            <node x="" y="">Interface.ComponentsFactory.WindowFactory</node>
+            <node x="" y="">Interface.ComponentsFactory.ComponentsCreationManagment</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="353.5" y="93.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/ManagmentSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="188" column="53" selection-start-line="188" selection-start-column="53" selection-end-line="188" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getNews#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#sendMessage#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getMessages#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#updateMessages#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#addNews#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#addMessage#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getCities#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getUsers#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getUsersFromCity#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getCityByName#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#insertUser#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#updateUser#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#deleteUser#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getUserByEmail#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#deleteMessage#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getIterator#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#getUserByIndex#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="method#main#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="class#UserIterator#0;class#ManagmentSystem#0" expanded="false" />
+            <element signature="e#3755#3756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Iterator/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Logic.Iterator.Iterator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Logic.Iterator.Iterator</OriginalElement>
+          <nodes>
+            <node x="-26.0" y="15.0">Logic.Iterator.Iterator</node>
+            <node x="81.5" y="0.0">Logic.Iterator.Container</node>
+            <node x="0.0" y="101.0">Logic.ManagmentSystem</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Logic.ManagmentSystem" target="Logic.Iterator.Container">
+              <point x="0.0" y="-69.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-201.0" y="148.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Prototype/PersonCloning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Logic.Prototype.PersonCloning">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Logic.Prototype.PersonCloning</OriginalElement>
+          <nodes>
+            <node x="0.0" y="77.5">java.lang.Cloneable</node>
+            <node x="54.0" y="234.0">Logic.Prototype.PersonCloning</node>
+            <node x="105.0" y="0.0">Logic.Person</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Logic.Prototype.PersonCloning" target="java.lang.Cloneable">
+              <point x="-42.0" y="-47.5" />
+              <point x="96.0" y="209.0" />
+              <point x="42.5" y="209.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Logic.Prototype.PersonCloning" target="Logic.Person">
+              <point x="42.0" y="-47.5" />
+              <point x="180.0" y="209.0" />
+              <point x="233.5" y="209.0" />
+              <point x="0.0" y="92.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-201.0" y="73.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/UserPageTemplate/UserPageTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBase/AbstractCitiesStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBase/AbstractMessagesStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBase/AbstractNewsStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBase/AbstractUsersStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Proxy/AbstractManagmentSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Logic/Proxy/ProxyManagmentSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getInstance#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getNews#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#sendMessage#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getMessages#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#updateMessages#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#addNews#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#addMessage#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getCities#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getUsers#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getUsersFromCity#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getCityByName#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#insertUser#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#updateUser#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#deleteUser#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#getUserByEmail#0;class#ProxyManagmentSystem#0" expanded="false" />
+            <element signature="method#deleteMessage#0;class#ProxyManagmentSystem#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Logic.Proxy.AbstractManagmentSystem">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Logic.Proxy.AbstractManagmentSystem</OriginalElement>
+          <nodes>
+            <node x="13.739583333333329" y="158.0">Logic.Proxy.ProxyManagmentSystem</node>
+            <node x="0.0" y="79.0">Logic.ManagmentSystem</node>
+            <node x="16.697916666666657" y="0.0">Logic.Proxy.AbstractManagmentSystem</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Logic.Proxy.ProxyManagmentSystem" target="Logic.Proxy.AbstractManagmentSystem">
+              <point x="54.66666666666666" y="-14.5" />
+              <point x="150.40625" y="133.0" />
+              <point x="145.5" y="133.0" />
+              <point x="145.5" y="54.0" />
+              <point x="150.94791666666666" y="54.0" />
+              <point x="44.75" y="14.5" />
+            </edge>
+            <edge source="Logic.ManagmentSystem" target="Logic.Proxy.AbstractManagmentSystem">
+              <point x="0.0" y="-14.5" />
+              <point x="67.5" y="54.0" />
+              <point x="61.44791666666666" y="54.0" />
+              <point x="-44.75" y="14.5" />
+            </edge>
+            <edge source="Logic.Proxy.ProxyManagmentSystem" target="Logic.ManagmentSystem">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-158.0" y="50.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Logic.Filter.OrCriteria">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Logic.Filter.OrCriteria</OriginalElement>
+          <nodes>
+            <node x="" y="">Logic.Filter.MaleCriteria</node>
+            <node x="" y="">Logic.Filter.AndCriteria</node>
+            <node x="" y="">Logic.Filter.AdultCriteria</node>
+            <node x="" y="">Logic.Filter.OrCriteria</node>
+            <node x="" y="">Logic.Filter.CriteriaFemale</node>
+            <node x="" y="">Logic.Filter.Criteria</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9" x="502.2222222222222" y="61.670634920634996" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Interface.State.Context">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Interface.State.Context</OriginalElement>
+          <nodes>
+            <node x="" y="">Interface.State.SettingsPageState</node>
+            <node x="" y="">Interface.State.ExitState</node>
+            <node x="" y="">Interface.State.MessagesPageState</node>
+            <node x="" y="">Interface.State.DeleteMessageState</node>
+            <node x="" y="">Interface.UserPage</node>
+            <node x="" y="">Interface.State.State</node>
+            <node x="" y="">Interface.State.Context</node>
+            <node x="" y="">Interface.State.NewsPageState</node>
+            <node x="" y="">Interface.State.UpdateMessagesState</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="442.5" y="118.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/DataBase.DataStore">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>DataBase.DataStore</OriginalElement>
+          <nodes>
+            <node x="" y="">DataBase.DataStore</node>
+            <node x="" y="">DataBase.AbstractNewsStore</node>
+            <node x="" y="">DataBase.AbstractCitiesStore</node>
+            <node x="" y="">DataBase.AbstractMessagesStore</node>
+            <node x="" y="">DataBase.AbstractUsersStore</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="287.5" y="93.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Interface.UserPageTemplate.UserPageTemplate">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Interface.UserPageTemplate.UserPageTemplate</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">Interface.UserPageTemplate.UserPageTemplate</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="336.5" y="256.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Interface.UserPage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Interface.UserPage</OriginalElement>
+          <nodes>
+            <node x="" y="">Interface.UserPageTemplate.UserPageTemplate</node>
+            <node x="" y="">Interface.UserPage</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9264705882352942" x="333.4444444444444" y="236.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/UserPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="514" column="23" selection-start-line="514" selection-start-column="23" selection-end-line="514" selection-end-column="23" />
+          <folding>
+            <element signature="method#actionPerformed#0;class#UserPage#0" expanded="false" />
+            <element signature="method#initializeSettings#0;class#UserPage#0" expanded="false" />
+            <element signature="method#showSettings#0;class#UserPage#0" expanded="false" />
+            <element signature="method#showMessages#0;class#UserPage#0" expanded="false" />
+            <element signature="method#showNews#0;class#UserPage#0" expanded="false" />
+            <element signature="method#changePassword#0;class#UserPage#0" expanded="false" />
+            <element signature="method#changeEmail#0;class#UserPage#0" expanded="false" />
+            <element signature="method#initializeMessages#0;class#UserPage#0" expanded="false" />
+            <element signature="method#updateMessages#0;class#UserPage#0" expanded="false" />
+            <element signature="method#sendMessage#0;class#UserPage#0" expanded="false" />
+            <element signature="method#deleteMessage#0;class#UserPage#0" expanded="false" />
+            <element signature="method#showMessageBtns#0;class#UserPage#0" expanded="false" />
+            <element signature="method#createNewsComponent#0;class#UserPage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBase/DataStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="method#getCities#0;class#DataStore#0" expanded="false" />
+            <element signature="method#getUsers#0;class#DataStore#0" expanded="false" />
+            <element signature="method#getUsersByCity#0;class#DataStore#0" expanded="false" />
+            <element signature="method#insertUser#0;class#DataStore#0" expanded="false" />
+            <element signature="method#insertNews#0;class#DataStore#0" expanded="false" />
+            <element signature="method#getNews#0;class#DataStore#0" expanded="false" />
+            <element signature="method#getMessages#0;class#DataStore#0" expanded="false" />
+            <element signature="method#insertMessage#0;class#DataStore#0" expanded="false" />
+            <element signature="method#updateUser#0;class#DataStore#0" expanded="false" />
+            <element signature="method#deleteUser#0;class#DataStore#0" expanded="false" />
+            <element signature="method#deleteNews#0;class#DataStore#0" expanded="false" />
+            <element signature="method#deleteMessage#0;class#DataStore#0" expanded="false" />
+            <marker date="1464189504466" expanded="true" signature="1608:1634" placeholder="SELECT group... groups" />
+            <marker date="1464189504466" expanded="true" signature="1608:1640" placeholder="SELECT * FRO... cities" />
+            <marker date="1464189504466" expanded="true" signature="2398:2405" placeholder="SELECT * Fro... users" />
+            <marker date="1464189504466" expanded="true" signature="2398:2423" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2432" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2442" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2453" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2460" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2465" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2470" placeholder="SELECT first... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2480" placeholder="SELECT user_... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2481" placeholder="SELECT user_... " />
+            <marker date="1464189504466" expanded="true" signature="2398:2485" placeholder="SELECT * FRO... users" />
+            <marker date="1464189504466" expanded="true" signature="2398:2557" placeholder="SELECT user_... users" />
+            <marker date="1464189504466" expanded="true" signature="2485:2557" placeholder="SELECT user_... users" />
+            <marker date="1464189504466" expanded="true" signature="3791:3873" placeholder="SELECT user_... " />
+            <marker date="1464189504466" expanded="true" signature="3791:3884" placeholder="(\&quot;SELECT us... " />
+            <marker date="1464189504466" expanded="true" signature="5119:5136" placeholder="INSERT INTO users... " />
+            <marker date="1464189504466" expanded="true" signature="5119:5238" placeholder="INSERT INTO users... " />
+            <marker date="1464189504466" expanded="true" signature="5119:5303" placeholder="INSERT INTO users... " />
+            <marker date="1464189504466" expanded="true" signature="6144:6291" placeholder="INSERT INTO news... " />
+            <marker date="1464189504466" expanded="true" signature="7063:7131" placeholder="SELECT news_... news" />
+            <marker date="1464189504466" expanded="true" signature="8106:8192" placeholder="SELECT messa... messages" />
+            <marker date="1464189504466" expanded="true" signature="9235:9400" placeholder="INSERT INTO messages... " />
+            <marker date="1464189504466" expanded="true" signature="10159:10175" placeholder="UPDATE users... " />
+            <marker date="1464189504466" expanded="true" signature="10159:10209" placeholder="UPDATE users... " />
+            <marker date="1464189504466" expanded="true" signature="10159:10220" placeholder="UPDATE users... " />
+            <marker date="1464189504466" expanded="true" signature="10159:10291" placeholder="UPDATE users... " />
+            <marker date="1464189504466" expanded="true" signature="10159:10340" placeholder="UPDATE users... " />
+            <marker date="1464189504466" expanded="true" signature="11246:11279" placeholder="DELETE FROM " />
+            <marker date="1464189504466" expanded="true" signature="11715:11747" placeholder="DELETE FROM " />
+            <marker date="1464189504466" expanded="true" signature="12192:12231" placeholder="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/social_network.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Social Network M</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
